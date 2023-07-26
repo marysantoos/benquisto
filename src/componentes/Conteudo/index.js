@@ -5,7 +5,3 @@ export default function Conteudo() {
     <div>Conteudo</div>
   )
 }
-
-export function OlaMundo() {
-     console.log("OlaMundo")
-}
