@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/benquisto/static/css/main.640423f2.css",
-    "main.js": "/benquisto/static/js/main.ab600e53.js",
+    "main.js": "/benquisto/static/js/main.63bcee80.js",
     "static/js/787.2f8dcf79.chunk.js": "/benquisto/static/js/787.2f8dcf79.chunk.js",
     "index.html": "/benquisto/index.html",
     "main.640423f2.css.map": "/benquisto/static/css/main.640423f2.css.map",
-    "main.ab600e53.js.map": "/benquisto/static/js/main.ab600e53.js.map",
+    "main.63bcee80.js.map": "/benquisto/static/js/main.63bcee80.js.map",
     "787.2f8dcf79.chunk.js.map": "/benquisto/static/js/787.2f8dcf79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.640423f2.css",
-    "static/js/main.ab600e53.js"
+    "static/js/main.63bcee80.js"
   ]
 }
